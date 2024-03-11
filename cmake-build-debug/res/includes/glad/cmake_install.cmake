@@ -1,4 +1,4 @@
-# Install script for directory: /Users/fahedabukaf/Downloads/assignment33/res/includes/glad
+# Install script for directory: /Users/fahedabukaf/Desktop/assignment33/res/includes/glad
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

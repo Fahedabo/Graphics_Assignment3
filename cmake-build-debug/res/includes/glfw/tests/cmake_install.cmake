@@ -1,4 +1,4 @@
-# Install script for directory: /Users/fahedabukaf/Downloads/assignment33/res/includes/glfw/tests
+# Install script for directory: /Users/fahedabukaf/Desktop/assignment33/res/includes/glfw/tests
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

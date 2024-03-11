@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/fahedabukaf/Downloads/assignment33 -B /Users/fahedabukaf/Downloads/assignment33/cmake-build-debug
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/fahedabukaf/Desktop/assignment33 -B /Users/fahedabukaf/Desktop/assignment33/cmake-build-debug
 -- The C compiler identification is AppleClang 14.0.3.14030022
 -- The CXX compiler identification is AppleClang 14.0.3.14030022
 -- Detecting C compiler ABI info
@@ -36,6 +36,6 @@ CMake Deprecation Warning at res/includes/glad/CMakeLists.txt:1 (cmake_minimum_r
   CMake that the project does not need compatibility with older versions.
 
 
--- Configuring done (2.2s)
--- Generating done (0.1s)
--- Build files have been written to: /Users/fahedabukaf/Downloads/assignment33/cmake-build-debug
+-- Configuring done (1.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/fahedabukaf/Desktop/assignment33/cmake-build-debug
