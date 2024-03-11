@@ -51,3 +51,20 @@ void MovableGLM::ZeroTrans()
 	rot = glm::mat4(1);
 	scl = glm::mat4(1);
 }
+
+glm::mat4 MovableGLM::getTrans()
+{
+	return trans;
+}
+
+glm::mat4 MovableGLM::getRot()
+{
+	return rot;
+}
+
+void MovableGLM::setTrans(glm::mat4 t) {
+	trans = t;
+}
+void MovableGLM::setRot(glm::mat4 r) {
+	rot = r;
+}
